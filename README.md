@@ -1,6 +1,10 @@
 
 ---
+- 项目介绍：[https://github.com/Jeriu7/CalTrace](https://blog.csdn.net/Jeriu/article/details/144804484?spm=1001.2014.3001.5501)
 
+- 使用教程 Tutorial：https://blog.csdn.net/Jeriu/article/details/144807288?spm=1001.2014.3001.5501
+
+  
 ## 🧭 使用步骤简述
 
 1. **运行 `ConvertVideo-1.1.2.py`**  
